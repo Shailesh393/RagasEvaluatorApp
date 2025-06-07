@@ -8,4 +8,7 @@ langchain-community==0.0.13
 PyPDF2==3.0.1
 Werkzeug==3.0.1
 scikit-learn==1.4.0
-numpy==1.24.0 
+numpy==1.24.0
+requests==2.31.0
+tqdm==4.66.1
+typing-extensions==4.9.0 
